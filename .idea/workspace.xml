@@ -9,30 +9,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/week 2 day 1.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="22" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app py.py">
+        <entry file="file://$PROJECT_DIR$/Week2HW.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="317">
-              <caret line="70" column="33" lean-forward="true" selection-start-line="70" selection-start-column="33" selection-end-line="70" selection-end-column="33" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/templates/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1350">
-              <caret line="90" column="37" lean-forward="true" selection-start-line="90" selection-start-column="37" selection-end-line="90" selection-end-column="37" />
+            <state relative-caret-position="375">
+              <caret line="25" selection-start-line="25" selection-end-line="25" />
             </state>
           </provider>
         </entry>
@@ -42,10 +24,16 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Python Script" />
         <option value="HTML File" />
+        <option value="Python Script" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>post</find>
+      <find>hw</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -56,13 +44,16 @@
         <option value="$PROJECT_DIR$/week 2 day 1.py" />
         <option value="$PROJECT_DIR$/templates/Order.html" />
         <option value="$PROJECT_DIR$/templates/index.html" />
+        <option value="$PROJECT_DIR$/Week 2 HW.py" />
         <option value="$PROJECT_DIR$/app py.py" />
+        <option value="$PROJECT_DIR$/Week2HW.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="212" />
     <option name="width" value="1280" />
-    <option name="height" value="800" />
+    <option name="height" value="722" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -106,7 +97,49 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.app py">
+  <component name="RunManager" selected="Python.Week2HW">
+    <configuration name="Week 2 HW" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="codingclass" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Week 2 HW.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Week2HW" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="codingclass" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Week2HW.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="app py" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="codingclass" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -151,6 +184,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Week2HW" />
+        <item itemvalue="Python.Week 2 HW" />
         <item itemvalue="Python.app py" />
         <item itemvalue="Python.week 2 day 1" />
       </list>
@@ -179,32 +214,30 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1280" height="800" extended-state="0" />
+    <frame x="0" y="23" width="1280" height="717" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24543288" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Python Console" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" sideWeight="0.50039715" side_tool="true" weight="0.32876712" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49960285" visible="true" weight="0.27534246" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.32876712" />
+      <window_info id="Favorites" order="0" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.24543288" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="1" sideWeight="0.50039715" side_tool="true" weight="0.32876712" />
+      <window_info anchor="bottom" id="Python Console" order="2" />
+      <window_info anchor="bottom" id="Message" order="3" />
+      <window_info anchor="bottom" id="Find" order="4" />
+      <window_info anchor="bottom" id="Version Control" order="5" />
+      <window_info anchor="bottom" id="Run" order="6" sideWeight="0.49960285" weight="0.20821919" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="10" weight="0.32876712" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/app" />
     <entry file="file://$PROJECT_DIR$/templates/Order.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
@@ -212,24 +245,32 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/week 2 day 1.py">
+    <entry file="file://$PROJECT_DIR$/templates/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="22" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
+        <state relative-caret-position="360">
+          <caret line="24" column="25" lean-forward="true" selection-start-line="24" selection-start-column="25" selection-end-line="24" selection-end-column="25" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/index.html">
+    <entry file="file://$PROJECT_DIR$/Week 2 HW.py" />
+    <entry file="file://$PROJECT_DIR$/week 2 day 1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1350">
-          <caret line="90" column="37" lean-forward="true" selection-start-line="90" selection-start-column="37" selection-end-line="90" selection-end-column="37" />
+        <state relative-caret-position="30">
+          <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app py.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="317">
-          <caret line="70" column="33" lean-forward="true" selection-start-line="70" selection-start-column="33" selection-end-line="70" selection-end-column="33" />
+        <state relative-caret-position="16">
+          <caret line="6" column="4" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week2HW.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
         </state>
       </provider>
     </entry>
